@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_website/static/css/main.1d913061.css",
+    "main.js": "/React_website/static/js/main.41b70ae5.js",
+    "static/js/787.d4aba7ab.chunk.js": "/React_website/static/js/787.d4aba7ab.chunk.js",
+    "static/media/boston.png": "/React_website/static/media/boston.79bc043c4793ff08da3e.png",
+    "static/media/smiley-business-women-office.jpg": "/React_website/static/media/smiley-business-women-office.e05b486c5aca275860d0.jpg",
+    "static/media/planning.svg": "/React_website/static/media/planning.4a70c329027b3c6ca925ec9a32b7209b.svg",
+    "static/media/analysis.svg": "/React_website/static/media/analysis.bdae88bc3acfbd637420f1f1db83292e.svg",
+    "static/media/payroll.svg": "/React_website/static/media/payroll.ffce9da9a93a14d501111f69b890b4e8.svg",
+    "static/media/accounting.svg": "/React_website/static/media/accounting.618e7d86538c9c013fab77254d537147.svg",
+    "index.html": "/React_website/index.html",
+    "main.1d913061.css.map": "/React_website/static/css/main.1d913061.css.map",
+    "main.41b70ae5.js.map": "/React_website/static/js/main.41b70ae5.js.map",
+    "787.d4aba7ab.chunk.js.map": "/React_website/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d913061.css",
+    "static/js/main.41b70ae5.js"
+  ]
+}
